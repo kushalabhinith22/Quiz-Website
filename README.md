@@ -40,11 +40,6 @@
 <p align="center">
   <img src="qustion screen.png" width="600"/>
 </p>
-
-<p align="center">
-  <img src="qustion screen.png" width="600"/>
-</p>
-
 ---
 
 ### 📊 Result Screen
